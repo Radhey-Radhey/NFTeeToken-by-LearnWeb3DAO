@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+<h1>Build your own NFT using ERC-721</h1>
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+NFT Contract Address: 0x058A9b3D081BE265997BEB5c0CD25be355924dba
